@@ -1,10 +1,26 @@
-#+Title: Aula 12
-#+Date: <2016-09-14 Wed>
-
+#+Title: Aula 13
+#+Date: <2016-09-16 Fri>
 
 * Git e Github
 
 - https://br.udacity.com/course/how-to-use-git-and-github--ud775/
 - http://programminghistorian.org/lessons/
-- https://medium.com/laws-of-the-digital-domain/a-modern-toolchain-for-lawyers-738a2ecb6893#.x5pgu7ess
+
+Mais referências no site do https://git-scm.com e em
+https://help.github.com.
+
+* Material Complementar
+
+- Tutorial com terminal interativo online sobre o Git,
+  https://try.github.io/, aplicação feita pelo site Code School em
+  parceria com o Github.
+
+- Tutorial de como Forkar um projeto e enviar para o github. Pule a
+  parte que ele fala sobre javascript:
+  https://www.youtube.com/watch?v=BEZu577eQmM
+
+- Criando chave no Linux (Para poder fazer o commit):
+  https://help.github.com/articles/set-up-git/
+
+- Como Fazer Pull Request https://www.youtube.com/watch?v=E8MPe6tCMo8
 
